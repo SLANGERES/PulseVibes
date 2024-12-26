@@ -1,23 +1,13 @@
-import { Album } from './components/Album'; // Import the Album component
-import fakedata from './fakedata.json'; // Import the JSON data
-import fakeTrackData from './assets/fakeTrackData.json'
-import './App.css';
-import {Track} from './components/Track';
+import React from 'react';
+import { Header } from './components/Header';
+import { Section } from './components/Section';
+import './App.css'; // Import your CSS
 
 function App() {
-  // Directly use the imported fakedata
-  console.log("album",fakedata);
-  console.log("track",fakeTrackData)
-  const data = fakedata; // No need to parse it
-  const track=fakeTrackData
-  console.log("track",fakeTrackData)
-  console.log("album",data);
-
   return (
     <>
-      <h1>PulseVibes</h1>
-      <Track data={track}/>
-      {/* <Album album={data} /> Pass the JSON data to the Album component */}
+      <Header/>
+      <Section/>
     </>
   );
 }
