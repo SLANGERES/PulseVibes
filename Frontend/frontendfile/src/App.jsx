@@ -1,6 +1,7 @@
 import React from 'react';
 import { Header } from './components/Header';
 import { Section } from './components/Section';
+import { Service } from './components/Service';
 import './App.css'; // Import your CSS
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
     <>
       <Header/>
       <Section/>
+      <Service/>
     </>
   );
 }
