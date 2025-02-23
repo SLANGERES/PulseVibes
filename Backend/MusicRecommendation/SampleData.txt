@@ -1,0 +1,997 @@
+{
+    "Ans": {
+        "emotion": "joy",
+        "recommendations": [
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2LMljlTXjGr7jPZOBmK9My"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2LMljlTXjGr7jPZOBmK9My",
+                            "id": "2LMljlTXjGr7jPZOBmK9My",
+                            "name": "S.A. Rajkumar",
+                            "type": "artist",
+                            "uri": "spotify:artist:2LMljlTXjGr7jPZOBmK9My"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5F5IlqtUN39M6vNfadB4pi"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5F5IlqtUN39M6vNfadB4pi",
+                    "id": "5F5IlqtUN39M6vNfadB4pi",
+                    "images": [
+                        {
+                            "height": 640,
+                            "width": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b27379aafea7e67ee1ce6bad8cca"
+                        },
+                        {
+                            "height": 300,
+                            "width": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e0279aafea7e67ee1ce6bad8cca"
+                        },
+                        {
+                            "height": 64,
+                            "width": 64,
+                            "url": "https://i.scdn.co/image/ab67616d0000485179aafea7e67ee1ce6bad8cca"
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Thullatha Manamum Thullum & Nee Varuvai Ena",
+                    "release_date": "1999-03-28",
+                    "release_date_precision": "day",
+                    "total_tracks": 14,
+                    "type": "album",
+                    "uri": "spotify:album:5F5IlqtUN39M6vNfadB4pi"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2JEjaa7hWhE1BbL3OcoeFR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2JEjaa7hWhE1BbL3OcoeFR",
+                        "id": "2JEjaa7hWhE1BbL3OcoeFR",
+                        "name": "Sujatha",
+                        "type": "artist",
+                        "uri": "spotify:artist:2JEjaa7hWhE1BbL3OcoeFR"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 79826,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "INS289900799"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6zgy3gzs0DxUdQFjy9gT2n"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6zgy3gzs0DxUdQFjy9gT2n",
+                "id": "6zgy3gzs0DxUdQFjy9gT2n",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Kakkai Siraginile - Language: Tamil; Film: Thullatha Manamum Thullum; Film Artist 1: Vijay; Film Artist 2: Simran",
+                "popularity": 27,
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:6zgy3gzs0DxUdQFjy9gT2n"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+                            "id": "0c173mlxpT3dSFRgMO8XPh",
+                            "name": "Big Sean",
+                            "type": "artist",
+                            "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6slkiHeFK3wW2D1mao0TX3",
+                    "id": "6slkiHeFK3wW2D1mao0TX3",
+                    "images": [
+                        {
+                            "height": 640,
+                            "width": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273b1b3fdd23be4c158d4d2c32f"
+                        },
+                        {
+                            "height": 300,
+                            "width": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02b1b3fdd23be4c158d4d2c32f"
+                        },
+                        {
+                            "height": 64,
+                            "width": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851b1b3fdd23be4c158d4d2c32f"
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Detroit 2",
+                    "release_date": "2020-09-04",
+                    "release_date_precision": "day",
+                    "total_tracks": 21,
+                    "type": "album",
+                    "uri": "spotify:album:6slkiHeFK3wW2D1mao0TX3"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+                        "id": "0c173mlxpT3dSFRgMO8XPh",
+                        "name": "Big Sean",
+                        "type": "artist",
+                        "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+                        "id": "7c0XG5cIJTrrAgEC3ULPiq",
+                        "name": "Ty Dolla $ign",
+                        "type": "artist",
+                        "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5ZS223C6JyBfXasXxrRqOk",
+                        "id": "5ZS223C6JyBfXasXxrRqOk",
+                        "name": "Jhené Aiko",
+                        "type": "artist",
+                        "uri": "spotify:artist:5ZS223C6JyBfXasXxrRqOk"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 224770,
+                "explicit": true,
+                "external_ids": {
+                    "isrc": "USUM72016331"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6FXsrAH7Zol1jusSeJIoYA"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6FXsrAH7Zol1jusSeJIoYA",
+                "id": "6FXsrAH7Zol1jusSeJIoYA",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Body Language (feat. Ty Dolla $ign, and Jhené Aiko)",
+                "popularity": 42,
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:6FXsrAH7Zol1jusSeJIoYA"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
+                            "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+                            "name": "Young Stoner Life",
+                            "type": "artist",
+                            "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+                            "id": "50co4Is1HCEo8bhOyUWKpn",
+                            "name": "Young Thug",
+                            "type": "artist",
+                            "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+                            "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+                            "name": "Gunna",
+                            "type": "artist",
+                            "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3ihwKkIMJWmmp1huNH0iWC",
+                    "id": "3ihwKkIMJWmmp1huNH0iWC",
+                    "images": [
+                        {
+                            "height": 640,
+                            "width": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2737939ff11c32b23060cc22bb5"
+                        },
+                        {
+                            "height": 300,
+                            "width": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e027939ff11c32b23060cc22bb5"
+                        },
+                        {
+                            "height": 64,
+                            "width": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048517939ff11c32b23060cc22bb5"
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Slime Language 2",
+                    "release_date": "2021-04-16",
+                    "release_date_precision": "day",
+                    "total_tracks": 23,
+                    "type": "album",
+                    "uri": "spotify:album:3ihwKkIMJWmmp1huNH0iWC"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
+                        "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+                        "name": "Young Stoner Life",
+                        "type": "artist",
+                        "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1bqJuNMz1iBqWo9B0BdIiM"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1bqJuNMz1iBqWo9B0BdIiM",
+                        "id": "1bqJuNMz1iBqWo9B0BdIiM",
+                        "name": "FN DaDealer",
+                        "type": "artist",
+                        "uri": "spotify:artist:1bqJuNMz1iBqWo9B0BdIiM"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2EnD37GNRe2REqHBKqMnZQ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2EnD37GNRe2REqHBKqMnZQ",
+                        "id": "2EnD37GNRe2REqHBKqMnZQ",
+                        "name": "Bslime",
+                        "type": "artist",
+                        "uri": "spotify:artist:2EnD37GNRe2REqHBKqMnZQ"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1cNDP5yjU5vjeR8qMf4grg",
+                        "id": "1cNDP5yjU5vjeR8qMf4grg",
+                        "name": "YNW Melly",
+                        "type": "artist",
+                        "uri": "spotify:artist:1cNDP5yjU5vjeR8qMf4grg"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 183160,
+                "explicit": true,
+                "external_ids": {
+                    "isrc": "QMCE32100209"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7BjDcHQ6aKuVDjfiNFzk3I"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7BjDcHQ6aKuVDjfiNFzk3I",
+                "id": "7BjDcHQ6aKuVDjfiNFzk3I",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Really Be Slime (feat. YNW Melly, Bslime & FN DaDealer)",
+                "popularity": 33,
+                "preview_url": null,
+                "track_number": 15,
+                "type": "track",
+                "uri": "spotify:track:7BjDcHQ6aKuVDjfiNFzk3I"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+                            "id": "0c173mlxpT3dSFRgMO8XPh",
+                            "name": "Big Sean",
+                            "type": "artist",
+                            "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/5iJvtKGTQRIo2KL42xS7JX"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/5iJvtKGTQRIo2KL42xS7JX",
+                    "id": "5iJvtKGTQRIo2KL42xS7JX",
+                    "images": [
+                        {
+                            "height": 640,
+                            "width": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2736bc7f20a88efc5cc056e1195"
+                        },
+                        {
+                            "height": 300,
+                            "width": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e026bc7f20a88efc5cc056e1195"
+                        },
+                        {
+                            "height": 64,
+                            "width": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048516bc7f20a88efc5cc056e1195"
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Detroit 2 (Deluxe)",
+                    "release_date": "2022-09-19",
+                    "release_date_precision": "day",
+                    "total_tracks": 24,
+                    "type": "album",
+                    "uri": "spotify:album:5iJvtKGTQRIo2KL42xS7JX"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+                        "id": "0c173mlxpT3dSFRgMO8XPh",
+                        "name": "Big Sean",
+                        "type": "artist",
+                        "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+                        "id": "7c0XG5cIJTrrAgEC3ULPiq",
+                        "name": "Ty Dolla $ign",
+                        "type": "artist",
+                        "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5ZS223C6JyBfXasXxrRqOk",
+                        "id": "5ZS223C6JyBfXasXxrRqOk",
+                        "name": "Jhené Aiko",
+                        "type": "artist",
+                        "uri": "spotify:artist:5ZS223C6JyBfXasXxrRqOk"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 224770,
+                "explicit": true,
+                "external_ids": {
+                    "isrc": "USUM72016331"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1uN6n88CE3RgVxGzxj6mOT"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1uN6n88CE3RgVxGzxj6mOT",
+                "id": "1uN6n88CE3RgVxGzxj6mOT",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Body Language (feat. Ty Dolla $ign, and Jhené Aiko)",
+                "popularity": 17,
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:1uN6n88CE3RgVxGzxj6mOT"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1aXtuiimQwgW8Xqztgp4Kf",
+                            "id": "1aXtuiimQwgW8Xqztgp4Kf",
+                            "name": "Deva",
+                            "type": "artist",
+                            "uri": "spotify:artist:1aXtuiimQwgW8Xqztgp4Kf"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/7gckelEfmpAMnsiHas3wEv"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/7gckelEfmpAMnsiHas3wEv",
+                    "id": "7gckelEfmpAMnsiHas3wEv",
+                    "images": [
+                        {
+                            "height": 640,
+                            "width": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2732b6e99078b8a02e75887331f"
+                        },
+                        {
+                            "height": 300,
+                            "width": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e022b6e99078b8a02e75887331f"
+                        },
+                        {
+                            "height": 64,
+                            "width": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048512b6e99078b8a02e75887331f"
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Adavadi & Aavanithingal",
+                    "release_date": "2006-01-01",
+                    "release_date_precision": "day",
+                    "total_tracks": 10,
+                    "type": "album",
+                    "uri": "spotify:album:7gckelEfmpAMnsiHas3wEv"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4Kw0NhqitzjxLy1jH5FlTg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4Kw0NhqitzjxLy1jH5FlTg",
+                        "id": "4Kw0NhqitzjxLy1jH5FlTg",
+                        "name": "Harish Raghavendra",
+                        "type": "artist",
+                        "uri": "spotify:artist:4Kw0NhqitzjxLy1jH5FlTg"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 307560,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "INM300600235"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3trCTaLivxvokOXN6yGFab"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3trCTaLivxvokOXN6yGFab",
+                "id": "3trCTaLivxvokOXN6yGFab",
+                "is_local": false,
+                "is_playable": true,
+                "name": "En Usura Thottu - Language:Tamil;Film:Aavanithingal;Film Artiest:Srikumar, Livingston",
+                "popularity": 0,
+                "preview_url": null,
+                "track_number": 8,
+                "type": "track",
+                "uri": "spotify:track:3trCTaLivxvokOXN6yGFab"
+            },
+            {
+                "album": {
+                    "album_type": "single",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/3QAWvRmq1TMLuNtDKVyRaW",
+                            "id": "3QAWvRmq1TMLuNtDKVyRaW",
+                            "name": "Odunsi (The Engine)",
+                            "type": "artist",
+                            "uri": "spotify:artist:3QAWvRmq1TMLuNtDKVyRaW"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/6ZyWAsfiZkIGlZpRo09FjU"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/6ZyWAsfiZkIGlZpRo09FjU",
+                    "id": "6ZyWAsfiZkIGlZpRo09FjU",
+                    "images": [
+                        {
+                            "height": 640,
+                            "width": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bf15da41021a5f6c121ac0a7"
+                        },
+                        {
+                            "height": 300,
+                            "width": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bf15da41021a5f6c121ac0a7"
+                        },
+                        {
+                            "height": 64,
+                            "width": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bf15da41021a5f6c121ac0a7"
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Nigerian Boyfriend",
+                    "release_date": "2024-09-18",
+                    "release_date_precision": "day",
+                    "total_tracks": 3,
+                    "type": "album",
+                    "uri": "spotify:album:6ZyWAsfiZkIGlZpRo09FjU"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3QAWvRmq1TMLuNtDKVyRaW",
+                        "id": "3QAWvRmq1TMLuNtDKVyRaW",
+                        "name": "Odunsi (The Engine)",
+                        "type": "artist",
+                        "uri": "spotify:artist:3QAWvRmq1TMLuNtDKVyRaW"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3s4Yx1pnz3Lgqfdw9jpC9e"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3s4Yx1pnz3Lgqfdw9jpC9e",
+                        "id": "3s4Yx1pnz3Lgqfdw9jpC9e",
+                        "name": "111SYRI",
+                        "type": "artist",
+                        "uri": "spotify:artist:3s4Yx1pnz3Lgqfdw9jpC9e"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 129007,
+                "explicit": true,
+                "external_ids": {
+                    "isrc": "QMBZ92404652"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5aPSQ4ZTGPLJ95tIZejyHK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5aPSQ4ZTGPLJ95tIZejyHK",
+                "id": "5aPSQ4ZTGPLJ95tIZejyHK",
+                "is_local": false,
+                "is_playable": true,
+                "name": "LANGUAGE",
+                "popularity": 23,
+                "preview_url": null,
+                "track_number": 3,
+                "type": "track",
+                "uri": "spotify:track:5aPSQ4ZTGPLJ95tIZejyHK"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
+                            "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+                            "name": "Young Stoner Life",
+                            "type": "artist",
+                            "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+                            "id": "50co4Is1HCEo8bhOyUWKpn",
+                            "name": "Young Thug",
+                            "type": "artist",
+                            "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+                            "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+                            "name": "Gunna",
+                            "type": "artist",
+                            "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3XADnbi4uhYXb7RuSJ7bre",
+                    "id": "3XADnbi4uhYXb7RuSJ7bre",
+                    "images": [
+                        {
+                            "height": 640,
+                            "width": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273bbb071648c950e560ae95b76"
+                        },
+                        {
+                            "height": 300,
+                            "width": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02bbb071648c950e560ae95b76"
+                        },
+                        {
+                            "height": 64,
+                            "width": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851bbb071648c950e560ae95b76"
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Slime Language 2 (Deluxe)",
+                    "release_date": "2021-04-16",
+                    "release_date_precision": "day",
+                    "total_tracks": 31,
+                    "type": "album",
+                    "uri": "spotify:album:3XADnbi4uhYXb7RuSJ7bre"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
+                        "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+                        "name": "Young Stoner Life",
+                        "type": "artist",
+                        "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1bqJuNMz1iBqWo9B0BdIiM"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1bqJuNMz1iBqWo9B0BdIiM",
+                        "id": "1bqJuNMz1iBqWo9B0BdIiM",
+                        "name": "FN DaDealer",
+                        "type": "artist",
+                        "uri": "spotify:artist:1bqJuNMz1iBqWo9B0BdIiM"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2EnD37GNRe2REqHBKqMnZQ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2EnD37GNRe2REqHBKqMnZQ",
+                        "id": "2EnD37GNRe2REqHBKqMnZQ",
+                        "name": "Bslime",
+                        "type": "artist",
+                        "uri": "spotify:artist:2EnD37GNRe2REqHBKqMnZQ"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1cNDP5yjU5vjeR8qMf4grg",
+                        "id": "1cNDP5yjU5vjeR8qMf4grg",
+                        "name": "YNW Melly",
+                        "type": "artist",
+                        "uri": "spotify:artist:1cNDP5yjU5vjeR8qMf4grg"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 183160,
+                "explicit": true,
+                "external_ids": {
+                    "isrc": "QMCE32100209"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2ern4oL9Iy1RoKdG62vPpI"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2ern4oL9Iy1RoKdG62vPpI",
+                "id": "2ern4oL9Iy1RoKdG62vPpI",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Really Be Slime (feat. YNW Melly, Bslime & FN DaDealer)",
+                "popularity": 22,
+                "preview_url": null,
+                "track_number": 23,
+                "type": "track",
+                "uri": "spotify:track:2ern4oL9Iy1RoKdG62vPpI"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+                            "id": "0c173mlxpT3dSFRgMO8XPh",
+                            "name": "Big Sean",
+                            "type": "artist",
+                            "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/3bIoQgLIRiIdwhL9z8DFvg"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/3bIoQgLIRiIdwhL9z8DFvg",
+                    "id": "3bIoQgLIRiIdwhL9z8DFvg",
+                    "images": [
+                        {
+                            "height": 640,
+                            "width": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2735dcdf703e2d52718dbacf428"
+                        },
+                        {
+                            "height": 300,
+                            "width": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e025dcdf703e2d52718dbacf428"
+                        },
+                        {
+                            "height": 64,
+                            "width": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048515dcdf703e2d52718dbacf428"
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Detroit 2",
+                    "release_date": "2020-09-04",
+                    "release_date_precision": "day",
+                    "total_tracks": 21,
+                    "type": "album",
+                    "uri": "spotify:album:3bIoQgLIRiIdwhL9z8DFvg"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0c173mlxpT3dSFRgMO8XPh",
+                        "id": "0c173mlxpT3dSFRgMO8XPh",
+                        "name": "Big Sean",
+                        "type": "artist",
+                        "uri": "spotify:artist:0c173mlxpT3dSFRgMO8XPh"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7c0XG5cIJTrrAgEC3ULPiq",
+                        "id": "7c0XG5cIJTrrAgEC3ULPiq",
+                        "name": "Ty Dolla $ign",
+                        "type": "artist",
+                        "uri": "spotify:artist:7c0XG5cIJTrrAgEC3ULPiq"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5ZS223C6JyBfXasXxrRqOk",
+                        "id": "5ZS223C6JyBfXasXxrRqOk",
+                        "name": "Jhené Aiko",
+                        "type": "artist",
+                        "uri": "spotify:artist:5ZS223C6JyBfXasXxrRqOk"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 224770,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "USUM72016332"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5xgDQgAMaCvNoGL0TU64cU"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5xgDQgAMaCvNoGL0TU64cU",
+                "id": "5xgDQgAMaCvNoGL0TU64cU",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Body Language (feat.Ty Dolla $ign, and Jhené Aiko)",
+                "popularity": 17,
+                "preview_url": null,
+                "track_number": 5,
+                "type": "track",
+                "uri": "spotify:track:5xgDQgAMaCvNoGL0TU64cU"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
+                            "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+                            "name": "Young Stoner Life",
+                            "type": "artist",
+                            "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+                            "id": "50co4Is1HCEo8bhOyUWKpn",
+                            "name": "Young Thug",
+                            "type": "artist",
+                            "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+                        },
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2hlmm7s2ICUX0LVIhVFlZQ",
+                            "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+                            "name": "Gunna",
+                            "type": "artist",
+                            "uri": "spotify:artist:2hlmm7s2ICUX0LVIhVFlZQ"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/2MUc9nWkppdNnM8dfz0l1w"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/2MUc9nWkppdNnM8dfz0l1w",
+                    "id": "2MUc9nWkppdNnM8dfz0l1w",
+                    "images": [
+                        {
+                            "height": 640,
+                            "width": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b273f56eccbf4222bfefaffc9b30"
+                        },
+                        {
+                            "height": 300,
+                            "width": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e02f56eccbf4222bfefaffc9b30"
+                        },
+                        {
+                            "height": 64,
+                            "width": 64,
+                            "url": "https://i.scdn.co/image/ab67616d00004851f56eccbf4222bfefaffc9b30"
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Slime Language 2",
+                    "release_date": "2021-04-15",
+                    "release_date_precision": "day",
+                    "total_tracks": 23,
+                    "type": "album",
+                    "uri": "spotify:album:2MUc9nWkppdNnM8dfz0l1w"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1xr2G8Hlx4QWmT9HaUbmoO",
+                        "id": "1xr2G8Hlx4QWmT9HaUbmoO",
+                        "name": "Young Stoner Life",
+                        "type": "artist",
+                        "uri": "spotify:artist:1xr2G8Hlx4QWmT9HaUbmoO"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1bqJuNMz1iBqWo9B0BdIiM"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1bqJuNMz1iBqWo9B0BdIiM",
+                        "id": "1bqJuNMz1iBqWo9B0BdIiM",
+                        "name": "FN DaDealer",
+                        "type": "artist",
+                        "uri": "spotify:artist:1bqJuNMz1iBqWo9B0BdIiM"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2EnD37GNRe2REqHBKqMnZQ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2EnD37GNRe2REqHBKqMnZQ",
+                        "id": "2EnD37GNRe2REqHBKqMnZQ",
+                        "name": "Bslime",
+                        "type": "artist",
+                        "uri": "spotify:artist:2EnD37GNRe2REqHBKqMnZQ"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1cNDP5yjU5vjeR8qMf4grg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1cNDP5yjU5vjeR8qMf4grg",
+                        "id": "1cNDP5yjU5vjeR8qMf4grg",
+                        "name": "YNW Melly",
+                        "type": "artist",
+                        "uri": "spotify:artist:1cNDP5yjU5vjeR8qMf4grg"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 183160,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "QMCE32100229"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1iFNbMe7EeGdWE1XsoqIv2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1iFNbMe7EeGdWE1XsoqIv2",
+                "id": "1iFNbMe7EeGdWE1XsoqIv2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Really Be Slime (feat. YNW Melly, Bslime & FN DaDealer)",
+                "popularity": 7,
+                "preview_url": null,
+                "track_number": 15,
+                "type": "track",
+                "uri": "spotify:track:1iFNbMe7EeGdWE1XsoqIv2"
+            },
+            {
+                "album": {
+                    "album_type": "album",
+                    "artists": [
+                        {
+                            "external_urls": {
+                                "spotify": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+                            },
+                            "href": "https://api.spotify.com/v1/artists/2bxxlINUlcMQQb39K7IopR",
+                            "id": "2bxxlINUlcMQQb39K7IopR",
+                            "name": "Abraham Mateo",
+                            "type": "artist",
+                            "uri": "spotify:artist:2bxxlINUlcMQQb39K7IopR"
+                        }
+                    ],
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/album/1TX0KrxbcW9Rgm5rvYyZOO"
+                    },
+                    "href": "https://api.spotify.com/v1/albums/1TX0KrxbcW9Rgm5rvYyZOO",
+                    "id": "1TX0KrxbcW9Rgm5rvYyZOO",
+                    "images": [
+                        {
+                            "height": 640,
+                            "width": 640,
+                            "url": "https://i.scdn.co/image/ab67616d0000b2738f551867514f08fad7f3bc0e"
+                        },
+                        {
+                            "height": 300,
+                            "width": 300,
+                            "url": "https://i.scdn.co/image/ab67616d00001e028f551867514f08fad7f3bc0e"
+                        },
+                        {
+                            "height": 64,
+                            "width": 64,
+                            "url": "https://i.scdn.co/image/ab67616d000048518f551867514f08fad7f3bc0e"
+                        }
+                    ],
+                    "is_playable": true,
+                    "name": "Who I AM (Edicion Especial)",
+                    "release_date": "2015-06-22",
+                    "release_date_precision": "day",
+                    "total_tracks": 21,
+                    "type": "album",
+                    "uri": "spotify:album:1TX0KrxbcW9Rgm5rvYyZOO"
+                },
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2bxxlINUlcMQQb39K7IopR",
+                        "id": "2bxxlINUlcMQQb39K7IopR",
+                        "name": "Abraham Mateo",
+                        "type": "artist",
+                        "uri": "spotify:artist:2bxxlINUlcMQQb39K7IopR"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 163400,
+                "explicit": false,
+                "external_ids": {
+                    "isrc": "ES5021500626"
+                },
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7J3faD6eGG4klXJX9oGWWb"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7J3faD6eGG4klXJX9oGWWb",
+                "id": "7J3faD6eGG4klXJX9oGWWb",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Body Language - Acústico Entre Amigos",
+                "popularity": 7,
+                "preview_url": null,
+                "track_number": 19,
+                "type": "track",
+                "uri": "spotify:track:7J3faD6eGG4klXJX9oGWWb"
+            }
+        ]
+    }
+}
