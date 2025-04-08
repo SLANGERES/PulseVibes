@@ -1,40 +1,39 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI
 from pydantic import BaseModel
-from transformers import pipeline
-import asyncio
-from fastapi.middleware.cors import CORSMiddleware
-
-
+import random
 
 app = FastAPI()
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # Adjust to your frontend URL
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
 
-# Load model on startup
-@app.on_event("startup")
-def load_model():
-    global emotion_classifier
-    emotion_classifier = pipeline("sentiment-analysis", model="michellejieli/emotion_text_classifier")
+# 🎭 Emotion-to-Genre Mapping
+MOOD_TO_GENRE = {
+    "joy": "pop",
+    "sadness": "acoustic",
+    "anger": "rock",
+    "calm": "chill",
+    "energetic": "edm",
+    "love": "romance",
+    "fear": "ambient",
+    "surprise": "indie",
+    "neutral": "classical"
+}
 
-class InputText(BaseModel):
-    text: str
+class TextRequest(BaseModel):
+    responses: list[str]
 
 @app.post("/detect")
-async def detect_emotion(input_text: InputText):
-    """Detects emotion from the input text."""
-    
-    if not input_text.text.strip():
-        raise HTTPException(status_code=400, detail="Text input cannot be empty")
+async def detect_genre(request: TextRequest):
+    print("📩 Received text for emotion detection:", request.responses)
 
-    # Run model inference in a separate thread to avoid blocking FastAPI
-    result = await asyncio.to_thread(emotion_classifier, input_text.text)
-    emotion = result[0]["label"].lower()
+    if not request.responses:
+        return {"error": "No text provided"}
 
-    return {"emotion": emotion}  # Only return detected emotion
+    # 🔥 Simulated Emotion Detection (Replace with actual model)
+    detected_emotions = [random.choice(list(MOOD_TO_GENRE.keys())) for _ in request.responses]
+    print("🎭 Detected Emotions:", detected_emotions)
 
+    # 🔥 Pick a final genre based on detected emotions
+    final_emotion = random.choice(detected_emotions)
+    final_genre = MOOD_TO_GENRE.get(final_emotion, "pop")
 
+    print("🎶 Selected Genre:", final_genre)
+    return {"genre": final_genre}
