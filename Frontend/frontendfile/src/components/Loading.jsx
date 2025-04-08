@@ -1,7 +1,14 @@
-import React from 'react'
+import React from "react";
+import "./Loading.css"; // Import external CSS
 
-export const Loading = () => {
+export default function Loading() {
   return (
-    <div className='overflow-hidden max-w-full w-full h-screen flex justify-center text-center mx-auto flex-col'>Something is loading....</div>
-  )
+    <div className="flex justify-center items-center h-screen">
+      <ul className="wave-menu">
+        {Array.from({ length: 10 }).map((_, index) => (
+          <li key={index}></li>
+        ))}
+      </ul>
+    </div>
+  );
 }

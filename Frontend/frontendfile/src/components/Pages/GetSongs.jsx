@@ -1,25 +1,62 @@
-import React from "react";
+import React, { useRef, useEffect } from "react";
 import { useLocation } from "react-router-dom";
-import { Card } from "./Card"; // Import the Card component
+import { Card } from "./Card"; 
+import { ArrowLeft, ArrowRight } from "lucide-react";
 
 export const GetSongs = () => {
   const location = useLocation();
   const { emotion, recommendations } = location.state || { emotion: "", recommendations: [] };
+  const scrollRef = useRef(null);
+
+  useEffect(() => {
+    console.log("📩 Received state:", location.state);
+  }, [location.state]);
+
+  const scrollLeft = () => {
+    if (scrollRef.current) {
+      scrollRef.current.scrollBy({ left: -500, behavior: "smooth" });
+    }
+  };
+
+  const scrollRight = () => {
+    if (scrollRef.current) {
+      scrollRef.current.scrollBy({ left: 500, behavior: "smooth" });
+    }
+  };
 
   return (
-    <div className="w-full h-screen flex flex-col items-center p-10">
-      <h1 className="text-4xl font-bold mb-5">Detected Emotion: {emotion}</h1>
-      
-      <h2 className="text-2xl mb-4">Recommended Songs</h2>
+    <div className="w-full h-screen flex flex-col items-center justify-center p-10 bg-gray-100">
+      <h1 className="text-4xl font-bold mb-5 text-center">Suggested Songs </h1>
 
-      {recommendations.length > 0 ? (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {recommendations.map((song, index) => (
-            <Card key={index} song={song} />
-          ))}
+      {Array.isArray(recommendations) && recommendations.length > 0 ? (
+        <div className="relative w-full h-[600px] flex items-center">
+          <button 
+            className="absolute left-5 top-1/2 transform -translate-y-1/2 bg-gray-800 text-white p-4 rounded-full shadow-lg hover:bg-gray-700 z-20"
+            onClick={scrollLeft}
+          >
+            <ArrowLeft size={32} />
+          </button>
+
+          <div 
+            ref={scrollRef} 
+            className="w-full h-full overflow-x-auto flex space-x-8 px-16 scrollbar-hide snap-x snap-mandatory"
+          >
+            {recommendations.map((song, index) => (
+              <div key={index} className="snap-center">
+                <Card song={song} />
+              </div>
+            ))}
+          </div>
+
+          <button 
+            className="absolute right-5 top-1/2 transform -translate-y-1/2 bg-gray-800 text-white p-4 rounded-full shadow-lg hover:bg-gray-700 z-20"
+            onClick={scrollRight}
+          >
+            <ArrowRight size={32} />
+          </button>
         </div>
       ) : (
-        <p>No recommendations available.</p>
+        <p className="text-lg text-gray-600">No recommendations available.</p>
       )}
     </div>
   );

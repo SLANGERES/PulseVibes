@@ -7,7 +7,6 @@ import { Footer } from '../Footer'
 export const Home = () => {
   return (
     <>
-        <Header/>
         <Section/>
         <Footer/>
     </>
